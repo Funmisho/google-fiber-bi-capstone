@@ -129,5 +129,5 @@ This project was completed as the capstone across all three courses of the **Goo
 
 ## Author
 
-**Oluwabukunmi** — Data Analyst → Business Intelligence → Data Engineering  
+**Oluwabukunmi Akinmi** — Data Analyst → Business Intelligence → Data Engineering  
 [LinkedIn](https://www.linkedin.com/in/akinmi/) · [Tableau Public](https://public.tableau.com/views/Book1_17763319253850/GoogleFiberRepeatCallAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
